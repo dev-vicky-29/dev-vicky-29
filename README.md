@@ -1,4 +1,4 @@
-<h1>- 👋 Hi, I’m @cs-vicky-29</h1>
+- 👋 Hi, I’m @cs-vicky-29
 - 👀 I’m interested in Full Stack Developer
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java Project
