@@ -1,4 +1,4 @@
-<img align="center" width="700" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" alt="Emoji" />
+<img align="center" width="900" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" alt="Emoji" />
 <h1 align="center">Hello 👋, I'm Vivek Deshmukh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <br><hr><br>
