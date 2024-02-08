@@ -4,7 +4,7 @@
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" alt="Coding Gif" />
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-vicky-29" alt="dev-vicky-29" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-vicky-29&label=Profile%20views&color=0e75b6&style=flat" alt="dev-vicky-29" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dev_vicky_29" target="blank"><img src="https://img.shields.io/twitter/follow/dev_vicky_29?logo=twitter&style=for-the-badge" alt="dev_vicky_29" /></a> </p>
 
