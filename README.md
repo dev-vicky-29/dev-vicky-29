@@ -1,4 +1,4 @@
-<img align="center" width="900" src="https://static.vecteezy.com/system/resources/thumbnails/030/492/615/small_2x/3d-rendering-of-a-boy-peeking-out-from-behind-a-white-wall-ai-generated-free-photo.jpg" alt="Emoji" />
+<img align="center" width="500" src="https://static.vecteezy.com/system/resources/thumbnails/030/492/615/small_2x/3d-rendering-of-a-boy-peeking-out-from-behind-a-white-wall-ai-generated-free-photo.jpg" alt="Emoji" />
 <h1 align="center">Hello 👋, I'm Vivek Deshmukh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <br><hr><br>
