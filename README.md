@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Vivek Deshmukh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<br><hr><br>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" alt="Coding Gif" />
 
 
