@@ -1,4 +1,4 @@
-<img align="center" width="auto" src="[https://camo.githubusercontent.com/470e71fcca3f5d1bf61484826cc14a47c3326437952cb73ccd4adaa22a0819ae/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313434342f312a5a352d6c576b797a635242356168676d3971797876672e706e67](https://static.vecteezy.com/system/resources/thumbnails/030/492/615/small_2x/3d-rendering-of-a-boy-peeking-out-from-behind-a-white-wall-ai-generated-free-photo.jpg)" alt="Emoji" />
+<img align="center" width="auto" src="https://static.vecteezy.com/system/resources/thumbnails/030/492/615/small_2x/3d-rendering-of-a-boy-peeking-out-from-behind-a-white-wall-ai-generated-free-photo.jpg" alt="Emoji" />
 <h1 align="center">Hello 👋, I'm Vivek Deshmukh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <br><hr><br>
