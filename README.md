@@ -1,4 +1,4 @@
-<img align="center" width="900" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" alt="Emoji" />
+<img align="center" width="900" src="https://camo.githubusercontent.com/470e71fcca3f5d1bf61484826cc14a47c3326437952cb73ccd4adaa22a0819ae/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313434342f312a5a352d6c576b797a635242356168676d3971797876672e706e67" alt="Emoji" />
 <h1 align="center">Hello 👋, I'm Vivek Deshmukh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <br><hr><br>
