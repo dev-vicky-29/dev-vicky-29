@@ -36,6 +36,8 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dev-vicky-29&show_icons=true&locale=en" alt="dev-vicky-29" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-vicky-29&show_icons=true&locale=en&layout=compact" alt="dev-vicky-29" /></p>
+
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-vicky-29&" alt="dev-vicky-29" /></p>
 
 
