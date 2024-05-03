@@ -42,3 +42,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 -------
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
