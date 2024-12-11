@@ -1,8 +1,11 @@
-<img align="center" width="auto" src="https://camo.githubusercontent.com/470e71fcca3f5d1bf61484826cc14a47c3326437952cb73ccd4adaa22a0819ae/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313434342f312a5a352d6c576b797a635242356168676d3971797876672e706e67" alt="Emoji" />
-<h1 align="center">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px"/>, I'm Vivek Deshmukh</h1>
+
+<h1 align="center"><samp>Turning Ideas Into Code</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
+<h2 align="center">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px"/>, I'm Vivek Deshmukh</h2>
 <h3 align="center">A passionate software developer from India</h3>
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 <br><hr><br>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" alt="Coding Gif" />
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-vicky-29&label=Profile%20views&color=0e75b6&style=flat" alt="dev-vicky-29" /> </p>
@@ -38,10 +41,18 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-vicky-29&show_icons=true&locale=en&layout=compact" alt="dev-vicky-29" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-vicky-29&" alt="dev-vicky-29" /></p>
 
-
+<div style="margin-bottom: 60px;"></div>
+<h3 align="left"><samp>✍Random Dev Quote</samp></h3>
+    <div>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
+    </div>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
+
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 -------
+
+
 
