@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/dev_vicky_29" target="blank"><img src="https://img.shields.io/twitter/follow/dev_vicky_29?logo=twitter&style=for-the-badge" alt="dev_vicky_29" /></a> </p>
 
-- 🔭 I’m currently working on **GitHub Project, Web Development Internship at OctaNet**
+- 🔭 I’m currently working on **GitHub Project, Web Development & Java Projects**
 
 - 🌱 I’m currently learning **DSA,MERN Stack**
 
